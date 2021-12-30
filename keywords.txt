@@ -1,0 +1,10 @@
+ctr_switch	KEYWORD1
+ctr_switch_ms	KEYWORD1
+ctr_switch_mcs	KEYWORD1
+ctr_switch_single	KEYWORD1
+
+set_switch_thrs	KEYWORD2
+get_time_since_last_event	KEYWORD2
+get	KEYWORD2
+
+functional_true KEYWORD2
